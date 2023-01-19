@@ -2,6 +2,7 @@
 Folder with notebooks for BUFC's quant team
 
 ### Covering:
+* Git and open source
 * Intro to numpy, pandas, matplotlib
 * Random walks/geometric brownian motions
 * Basic probability and statistics (computational)
