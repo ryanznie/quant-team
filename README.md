@@ -1,5 +1,7 @@
 # quant-team
 
+-- WIP --
+
 The Quant Team - Boston University's Finance and Investment Club. 
 
 ### Our Vision:
