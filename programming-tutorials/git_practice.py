@@ -1,6 +1,6 @@
 """
 Quant - Example .py file to practice Git
-Author: <FILL_NAME>
+Author: <Ryan Nie>
 """
 
 # Sample code
