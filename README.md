@@ -8,7 +8,9 @@ The Quant Team - Boston University's Finance and Investment Club.
 1) Fork this repository, so you can have a copy on your own GitHub (remote).
 2) In your terminal go into your desired storage location by using `cd <your/desired/directory>` .
 3) Now, to get the *quant-team* repo onto your local machine, type `git clone <your_repository_github_url>` into your terminal.
-4) Now go into the quant-team repo on your local machine and edit as desired (`cd quant-team`).
+4) Now go into the *quant-team* repo on your local machine and edit as desired (`cd quant-team`).
+5) To log your changes use `git add "<file.py>"` and `git commit -m "<your commit message>"`.
+6) To push your changes from your local machine to remote server (GitHub), use `git push`.
 
 
 ### Our Vision:
